@@ -8,3 +8,6 @@ Solution is perfectly matching the following output:
 4322234  
 4333334  
 4444444  
+
+# Explanation
+Check the given uploaded picture.
